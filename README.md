@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Infernospike
-- 👀 I’m interested in Embedded Systems, Hardware Devolpment 
-- 🌱 I’m currently learning Network programming
+- 👀 I’m interested in Embedded Systems, VLSI, Cloud Computing 
+- 🌱 I’m currently learning VLSI 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
